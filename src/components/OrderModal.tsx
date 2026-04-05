@@ -1,3 +1,4 @@
+import React from "react";
 import { useState } from "react";
 import { X, Minus, Plus, ShoppingBag } from "lucide-react";
 import toast from "react-hot-toast";
