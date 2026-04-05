@@ -2,8 +2,8 @@
   "name": "edzy-canteen",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
-    "type": "module",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
