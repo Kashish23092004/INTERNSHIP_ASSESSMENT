@@ -36,7 +36,7 @@ export default function OrderModal({ snack, onClose }: Props) {
       // API offline — saved locally below
     } finally {
       addOrder(order);
-      toast.success(`Order placed! ₹${order.total} 🎉`);
+      toast.success(`Order placed! ₹${order.total}`);
       setLoading(false);
       onClose();
     }
