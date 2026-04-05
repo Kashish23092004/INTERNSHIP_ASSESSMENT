@@ -28,7 +28,7 @@ export default function CreateStudent() {
       // API offline — save locally
     }
     addStudent(newStudent);
-    toast.success(`${newStudent.name} added! 🎉`);
+    toast.success(`${newStudent.name} added! `);
     reset();
   };
 
