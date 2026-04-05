@@ -1,4 +1,3 @@
-import React from "react";
 import { useForm } from "react-hook-form";
 import { UserPlus } from "lucide-react";
 import toast from "react-hot-toast";

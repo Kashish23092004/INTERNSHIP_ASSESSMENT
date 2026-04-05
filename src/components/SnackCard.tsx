@@ -1,4 +1,3 @@
-import React from "react";
 import { useState } from "react";
 import { ShoppingCart, Star } from "lucide-react";
 import type { Snack } from "../types";
