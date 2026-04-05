@@ -1,3 +1,4 @@
+import React from "react";
 import { Link } from "react-router-dom";
 import { Tag, IndianRupee, ChevronRight } from "lucide-react";
 import type { Student } from "../types";

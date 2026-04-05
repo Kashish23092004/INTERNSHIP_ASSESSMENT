@@ -4,7 +4,7 @@ import toast from "react-hot-toast";
 import { createStudent } from "../api/api";
 import { useStore } from "../store/useStore";
 import type { CreateStudentInput } from "../types";
-
+import React from "react";
 export default function CreateStudent() {
   const {
     register,

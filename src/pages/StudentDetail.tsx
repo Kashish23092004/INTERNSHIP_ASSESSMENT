@@ -1,3 +1,4 @@
+import React from "react";
 import { useState } from "react";
 import { useParams, Link } from "react-router-dom";
 import { ArrowLeft, ShoppingBag, IndianRupee, Tag, PlusCircle } from "lucide-react";
